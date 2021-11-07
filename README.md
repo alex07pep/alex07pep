@@ -12,6 +12,7 @@ On the technical side, I enjoy working with Java, Spring (Boot), JHipster, NodeJ
 ⚡ I love a good technical challenge .
 
 <h3 align="left">Connect with me:</h3>
+
 - 📫 **alexandruflorin.peptan@gmail.com**
 - ☎️ +40 723 620 766
 
