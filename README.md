@@ -20,7 +20,6 @@ On the technical side, I enjoy working with Java, Spring (Boot), JHipster, NodeJ
 <a href="https://join.skype.com/invite/prf2EEXaJo69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="alex07pep" height="30" width="40" /></a>
 <a href="https://twitter.com/alex07pep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alex07pep" height="30" width="40" /></a>
 <a href="https://instagram.com/alex.peptan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alex.peptan" height="30" width="40" /></a>
-<a href="/https://www.baeldung.com/author/alexandrupeptan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.baeldung.com/author/alexandrupeptan/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
