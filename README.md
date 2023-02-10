@@ -3,7 +3,7 @@
 
 [comment]: <> (<p align="left"> <a href="https://twitter.com/alex07pep" target="blank"><img src="https://img.shields.io/twitter/follow/alex07pep?logo=twitter&style=for-the-badge" alt="alex07pep" /></a> </p>)
 
-- 🎓 With 6 years of experience, I help companies around the world design and implement their software solutions. 
+- 🎓 With 8+ years of experience, I help companies around the world design and implement their software solutions. 
 - 🔭 Only interested in remote work.
 - 📝 I write articles in my spare time: [https://www.baeldung.com/openapi-json-query-parameters](https://www.baeldung.com/openapi-json-query-parameters)
 
